@@ -1,0 +1,8 @@
+<resources>
+    <string id="AppName">Dagtekst</string>
+    <string id="Loading">Laden van WOL...</string>
+    <string id="Error">Kon dagtekst niet laden</string>
+    <string id="Offline">Geen internetverbinding. Opgeslagen dagtekst wordt getoond.</string>
+    <string id="DateMismatch">Dagtekst datum wijkt af van vandaag.</string>
+    <string id="Refresh">Veeg naar beneden of tik om te vernieuwen.</string>
+</resources>
